@@ -1,3 +1,9 @@
+---
+title: Projects
+---
+
+[← Back to Home](/)
+
 # Projects
 
 ## AI Driven Fraud Case Summarizer

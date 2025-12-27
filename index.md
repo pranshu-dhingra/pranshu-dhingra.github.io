@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 # Pranshu Dhingra
 
 Data scientist focused on applied machine learning and explainable AI.
@@ -7,7 +11,7 @@ Data scientist focused on applied machine learning and explainable AI.
 
 ## Projects
 
-Explore my work: **[View all projects →](projects.md)**
+Explore my work: **[View all projects →](/projects)**
 
 ## Experience
 [Add professional experience or key achievements]
