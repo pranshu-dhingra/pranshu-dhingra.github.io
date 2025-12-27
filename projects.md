@@ -2,7 +2,7 @@
 title: Projects
 ---
 
-[← Back to Home](index.md)
+[← Back to Home](/)
 
 # Projects
 
