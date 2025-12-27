@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 # Pranshu Dhingra
 
 Data scientist focused on applied machine learning and explainable AI.
