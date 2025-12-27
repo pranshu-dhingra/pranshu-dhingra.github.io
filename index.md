@@ -2,8 +2,15 @@
 
 Data scientist focused on applied machine learning and explainable AI.
 
-This site is a simple hub that links to my project demos and the code behind them.
+## About
+[Add a brief bio or professional summary here]
 
 ## Projects
 
-Go to the full list here: **[Projects](projects.md)**
+Explore my work: **[View all projects →](projects.md)**
+
+## Experience
+[Add professional experience or key achievements]
+
+## Contact
+[Add contact information or links to professional profiles]
