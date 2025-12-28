@@ -8,14 +8,6 @@ layout: default
 - **Research Associate** — Developed explainable AI frameworks for healthcare diagnostics
 - **ML Engineer** — Built production pipelines for real-time recommendation systems
 
-- **Tech Solutions Inc** - 
-- **Senior Data Scientist** — Led development of predictive models for customer churn analysis
-- **Analytics Engineer** — Designed and implemented data warehousing solutions using cloud technologies
-
-- **Innovation Labs Corp** - 
-- **Machine Learning Specialist** — Built and deployed NLP models for sentiment analysis on customer feedback
-- **Data Engineer** — Developed ETL pipelines processing millions of records daily
-
 ## Projects
 
 #### Explore my work: **[View all projects →](/projects)**
