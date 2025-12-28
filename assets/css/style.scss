@@ -56,7 +56,7 @@ hr {
   margin: 2em 0;
 }
 
-/* 2-column layout within content area */
+/* Flexbox layout for 2-column content area (intro box + main sections) */
 .home-content {
   display: flex;
   gap: 2.5em;
