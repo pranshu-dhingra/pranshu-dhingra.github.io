@@ -3,11 +3,29 @@
 
 @import "{{ site.theme }}";
 
-/* Academic-modern styling */
+/* Increase font size across the site */
 body {
+  font-size: 16px !important; /* Increased from default 14px */
   line-height: 1.6;
   background-color: #faf8f5; /* off-white paper-like background */
   font-family: Georgia, 'Times New Roman', serif; /* serif body */
+}
+
+/* Adjust layout widths to accommodate larger font sizes */
+.wrapper {
+  width: 920px !important; /* Increased from default 860px */
+}
+
+header {
+  width: 300px !important; /* Increased from default 270px */
+}
+
+section {
+  width: 540px !important; /* Increased from default 500px */
+}
+
+footer {
+  width: 300px !important; /* Match header width */
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -20,12 +38,13 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   margin-top: 0;
+  font-size: 32px !important; /* Increased from default 28px */
 }
 
 h2 {
   font-weight: 600;
   text-transform: uppercase;
-  font-size: 0.85em;
+  font-size: 0.9em; /* Slightly increased from 0.85em */
   letter-spacing: 0.1em; /* Wide letter spacing for section headers */
   color: #6b5847;
   padding-bottom: 0.5em;
@@ -67,7 +86,7 @@ hr {
 }
 
 .sidebar-intro .tagline {
-  font-size: 0.9em;
+  font-size: 0.95em; /* Slightly increased from 0.9em */
   color: #6b5847;
   font-style: italic;
   margin-bottom: 1em;
@@ -77,7 +96,7 @@ hr {
 
 .sidebar-intro .bio {
   margin-bottom: 1em;
-  font-size: 0.85em;
+  font-size: 0.9em; /* Slightly increased from 0.85em */
   padding: 0.8em;
   background-color: rgba(232, 220, 200, 0.2); /* Subtle background tint */
   border-radius: 4px;
