@@ -1,27 +1,7 @@
 ---
 title: Home
-layout: home
+layout: default
 ---
-
-<div class="home-column-left" markdown="1">
-
-# Pranshu Dhingra
-
-<p class="tagline">Data scientist focused on applied machine learning and explainable AI.</p>
-
-<div class="bio" markdown="1">
-Building practical ML solutions that combine predictive power with interpretability. Passionate about turning complex data into actionable insights and making AI systems more transparent.
-</div>
-
-<ul class="links">
-  <li><a href="https://github.com/pranshu-dhingra">GitHub</a></li>
-  <li><a href="https://linkedin.com/in/pranshu-dhingra">LinkedIn</a></li>
-  <li><a href="mailto:pranshu@example.com">Email</a></li>
-</ul>
-
-</div>
-
-<div class="home-column-right" markdown="1">
 
 ## Work
 
@@ -39,5 +19,3 @@ Explore my work: **[View all projects →](/projects)**
 
 - **M.S. in Data Science** — University Name, 2020
 - **B.S. in Computer Science** — University Name, 2018
-
-</div>
