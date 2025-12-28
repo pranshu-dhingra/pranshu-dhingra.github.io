@@ -4,8 +4,6 @@ layout: default
 ---
 
 ## Work
-
-- **Bank of America** | Assistant Manager - Analytics: Led ML fraud detection initiatives, improving case review efficiency by 40%
 - **Research Associate** — Developed explainable AI frameworks for healthcare diagnostics
 - **ML Engineer** — Built production pipelines for real-time recommendation systems
 
