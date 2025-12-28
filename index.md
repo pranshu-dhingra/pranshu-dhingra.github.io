@@ -1,11 +1,11 @@
 ---
 title: Home
-layout: home
+layout: default
 ---
 
-<div class="home-column-left" markdown="1">
+<div class="home-content">
 
-# Pranshu Dhingra
+<div class="home-intro" markdown="1">
 
 <p class="tagline">Data scientist focused on applied machine learning and explainable AI.</p>
 
@@ -21,7 +21,7 @@ Building practical ML solutions that combine predictive power with interpretabil
 
 </div>
 
-<div class="home-column-right" markdown="1">
+<div class="home-details" markdown="1">
 
 ## Work
 
@@ -39,5 +39,7 @@ Explore my work: **[View all projects →](/projects)**
 
 - **M.S. in Data Science** — University Name, 2020
 - **B.S. in Computer Science** — University Name, 2018
+
+</div>
 
 </div>
