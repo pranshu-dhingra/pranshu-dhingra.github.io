@@ -4,8 +4,8 @@ layout: default
 ---
 
 ## Work
+
 - **Bank of America** | Assistant Manager - Analytics: Led ML fraud detection initiatives, improving case review efficiency by 40%
-  - test bullet
 - **Research Associate** — Developed explainable AI frameworks for healthcare diagnostics
 - **ML Engineer** — Built production pipelines for real-time recommendation systems
 
@@ -13,9 +13,8 @@ layout: default
 
 #### Explore my work: **[View all projects →](/projects)**
 
-**Featured:** AI Driven Fraud Case Summarizer — Turns fraud detection signals into investigation-ready case narratives using an interpretable ML model plus a lightweight text generation step.
+**AI Driven Fraud Case Summarizer**: *A pipeline that converts structured fraud detection outputs into human-readable case summaries using a small Transformer (Flan-T5) enriched with XGBoost+SHAP interpretability.* 
 
-**Featured:** AI Driven Fraud Case Summarizer — Turns fraud detection signals into investigation-ready case narratives using an interpretable ML model plus a lightweight text generation step.
 
 ## Education
 
