@@ -4,6 +4,7 @@ layout: default
 ---
 
 ## Work
+- **Bank of America** - 
 - **Research Associate** — Developed explainable AI frameworks for healthcare diagnostics
 - **ML Engineer** — Built production pipelines for real-time recommendation systems
 
@@ -13,6 +14,9 @@ layout: default
 
 **AI Driven Fraud Case Summarizer**: *A pipeline that converts structured fraud detection outputs into human-readable case summaries using a small Transformer (Flan-T5) enriched with XGBoost+SHAP interpretability.* 
 
+## Publications
+- Pub 1
+- Pub 2
 
 ## Education
 
