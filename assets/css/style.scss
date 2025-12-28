@@ -56,22 +56,14 @@ hr {
   margin: 2em 0;
 }
 
-/* 2-column home layout using flexbox */
-.home-content {
-  display: flex;
-  gap: 2.5em;
-  margin-top: 1em;
-}
-
+/* Single-column home layout */
 .home-intro {
-  flex: 0 0 280px;
-  min-width: 0;
   padding: 1.5em;
   background: linear-gradient(135deg, #ffffff 0%, #faf8f5 100%); /* Subtle gradient */
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(107, 88, 71, 0.08); /* Soft shadow for depth */
   border: 1px solid #e8dcc8; /* Subtle border */
-  align-self: flex-start;
+  margin-bottom: 2em;
 }
 
 .home-intro .tagline {
@@ -117,49 +109,20 @@ hr {
   transform: translateX(3px); /* Arrow moves on hover */
 }
 
-.home-details {
-  flex: 1;
-  min-width: 0;
-  padding: 0.5em 0;
-}
-
-.home-details h2 {
+/* Section styling for Work, Projects, Education */
+h2 {
   margin-top: 2em;
-  padding-top: 0;
 }
 
-.home-details h2:first-child {
-  margin-top: 0;
+h2:first-of-type {
+  margin-top: 1.5em;
 }
 
-.home-details ul {
-  margin-top: 0.5em;
-}
-
-.home-details ul li {
+ul li {
   margin-bottom: 0.8em;
-  padding-left: 1.2em;
-  position: relative;
 }
 
-.home-details ul li::marker {
-  color: #c5b299; /* Subtle bullet color */
-}
-
-.home-details ul li strong {
+ul li strong {
   color: #4a3d2f;
   font-weight: 600;
-}
-
-/* Mobile responsive: stack into single column */
-@media screen and (max-width: 768px) {
-  .home-content {
-    flex-direction: column;
-    gap: 2em;
-  }
-  
-  .home-intro {
-    flex: 1 1 auto;
-    padding: 1.5em;
-  }
 }
