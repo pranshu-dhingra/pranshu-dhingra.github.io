@@ -7,10 +7,10 @@ title: Projects
 # Projects
 
 ## AI Driven Fraud Case Summarizer
-Turns fraud detection signals into investigation-ready case narratives using an interpretable ML model plus a lightweight text generation step.
+> *Turns fraud detection signals into investigation-ready case narratives using an interpretable ML model plus a lightweight text generation step.*
 
-Demo: https://pranshu-dhingra.github.io/AI-Driven-Fraud-Case-Summarizer/
-Code: https://github.com/pranshu-dhingra/AI-Driven-Fraud-Case-Summarizer
+* [Interactive Demo →](https://pranshu-dhingra.github.io/AI-Driven-Fraud-Case-Summarizer)
+* [Code →](https://github.com/pranshu-dhingra/AI-Driven-Fraud-Case-Summarizer)
 
 ---
 
