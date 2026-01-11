@@ -5,11 +5,11 @@ layout: default
 
 [← Back to Home](/)
 
-# Projects
+## Projects
 
-## 1. Relevance-to-Revenue Engine (Pricing & Explainability)
+### 1. Relevance-to-Revenue Engine (Pricing & Explainability)
 
-**An end-to-end decision intelligence system that combines demand modeling, revenue optimization, and learning-to-rank with GenAI explanations, translating complex pricing and relevance decisions into clear, human-understandable insights.**
+**A decision intelligence system that combines demand modeling, revenue optimization, and learning-to-rank with GenAI explanations, translating complex pricing and relevance decisions into clear, human-understandable insights.**
 
 <div class="topic-tags">
 <span class="topic-tag">Decision Intelligence</span>
@@ -32,9 +32,9 @@ layout: default
 
 ---
 
-## 2. Intelligent Document Experience Assistant (IDEA)
+### 2. Intelligent Document Experience Assistant (IDEA)
 
-**An end-to-end document intelligence system that converts unstructured enterprise documents into structured summaries, key themes, and explicit risk signals, enabling faster comprehension, consistent review, and decision-ready insights through responsible use of LLMs.**
+**A document intelligence system that converts unstructured enterprise documents into structured summaries, key themes, and explicit risk signals, enabling faster comprehension, consistent review, and decision-ready insights through responsible use of LLMs.**
 
 <div class="topic-tags">
 <span class="topic-tag">Document Intelligence</span>
@@ -57,9 +57,9 @@ layout: default
 
 ---
 
-## 3. Product Adoption & Churn Intelligence Assistant
+### 3. Product Adoption & Churn Intelligence Assistant
 
-**An end-to-end agentic decision system that analyzes customer usage signals to surface feature adoption opportunities, actionable enablement playbooks, and explainable churn risk, translating raw telemetry into CSM-ready guidance.**
+**An agentic decision system that analyzes customer usage signals to surface feature adoption opportunities, actionable enablement playbooks, and explainable churn risk, translating raw telemetry into CSM-ready guidance.**
 
 <div class="topic-tags">
 <span class="topic-tag">Product Analytics</span>
@@ -80,7 +80,7 @@ layout: default
 
 ---
 
-## 4. Marketing Intelligence Engine (Time-Aware Propensity Modeling)
+### 4. Marketing Intelligence Engine (Time-Aware Propensity Modeling)
 
 **An end-to-end, leakage-free machine learning system for predicting term-deposit subscription under real-world campaign dynamics—combining rigorous temporal evaluation, imbalance-aware modeling, and operational metrics to support realistic marketing decisions.**
 
@@ -104,7 +104,7 @@ layout: default
 
 ---
 
-## 5. AI-Driven Fraud Case Summarizer (Risk Explainability)
+### 5. AI-Driven Fraud Case Summarizer (Risk Explainability)
 
 **An AI-assisted fraud analytics system that combines model risk outputs, SHAP-based explainability, and GenAI narratives to transform raw transaction data and fraud signals into structured, analyst-ready case summaries—supporting faster, more transparent fraud review without automating final decisions.**
 
@@ -135,9 +135,9 @@ layout: default
 
 ---
 
-## 6. Vision-to-Language Engine
+### 6. Vision-to-Language Engine
 
-**An end-to-end computer vision and sequence learning system that converts raw visual signals into coherent natural language descriptions, combining deep CNN-based visual understanding with LSTM-based language modeling to bridge perception and human-readable interpretation.**
+**A computer vision and sequence learning system that converts raw visual signals into coherent natural language descriptions, combining deep CNN-based visual understanding with LSTM-based language modeling to bridge perception and human-readable interpretation.**
 
 <div class="topic-tags">
 <span class="topic-tag">Computer Vision</span>
