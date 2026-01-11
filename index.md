@@ -22,7 +22,7 @@ layout: default
 
 ### Projects
 
-#### **[View all projects →](/projects)**
+> **[View all projects →](/projects)**
 
 **[Relevance-to-Revenue Engine](/projects/relevance-to-revenue-engine)**: *A decision intelligence system that combines demand modeling, revenue optimization, and learning-to-rank with GenAI explanations.*
 
