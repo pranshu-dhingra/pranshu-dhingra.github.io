@@ -3,6 +3,9 @@ title: Home
 layout: default
 ---
 
+
+---
+
 ### Work
 - **Bank of America** ▪ Assistant Manager - Analytics ▪ *03/24 - Present*
 - **Citi** ▪ Senior Business Analyst ▪ *07/22 - 03/24*
@@ -34,5 +37,4 @@ layout: default
 ### Publications
 
 - **Internet of Things-based Pharmaceutics Data Analysis** [Elsevier]: *Leveraged IoT sensor data in pharmaceutical operations to unlock real-time analytics and decision support*
-- Security Issues in Wireless Medical Sensor Networks  The Institution of Engineering and Technology
-Surveyed security and privacy threats in wireless medical sensor networks to advance safer healthcare monitorin
+- **Security Issues in Wireless Medical Sensor Networks** [The Institution of Engineering and Technology]: *Surveyed security and privacy threats in wireless medical sensor networks to advance safer healthcare monitoring*
