@@ -89,7 +89,7 @@ title: Projects
 
 **An end-to-end computer vision and sequence learning system that converts raw visual signals into coherent natural language descriptions, combining deep CNN-based visual understanding with LSTM-based language modeling to bridge perception and human-readable interpretation.**
 
-`Computer Vision` · `Deep Learning` · `CNN` · `LSTM` · `Vision–Language Models` · `NLP` · `Sequence Modeling` · `Python` · `TensorFlow` · `Research-Grade`
+`Computer Vision` · `Deep Learning` · `CNN` · `LSTM` · `Vision-Language Models` · `NLP` · `Sequence Modeling` · `Python` · `TensorFlow` · `Research-Grade`
 
 **Key Impact:**
 - Automated translation of visual content into descriptive language
