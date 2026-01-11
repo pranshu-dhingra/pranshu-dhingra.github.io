@@ -1,5 +1,6 @@
 ---
 title: Projects
+layout: default
 ---
 
 [← Back to Home](/)
