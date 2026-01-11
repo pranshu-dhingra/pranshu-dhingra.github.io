@@ -9,7 +9,9 @@ layout: default
 
 ### 1. Relevance-to-Revenue Engine (Pricing & Explainability)
 
-**A decision intelligence system that combines demand modeling, revenue optimization, and learning-to-rank with GenAI explanations, translating complex pricing and relevance decisions into clear, human-understandable insights.**
+> *A decision intelligence system that combines demand modeling, revenue optimization, and learning-to-rank with GenAI explanations, translating complex pricing and relevance decisions into clear, human-understandable insights.* 
+[Read More →](/projects/relevance-to-revenue-engine)
+
 
 <div class="topic-tags">
 <span class="topic-tag">Decision Intelligence</span>
@@ -28,13 +30,13 @@ layout: default
 - Expected revenue uplift trade-offs surfaced in narratives
 - Booking probability insights contextualized for business decisions
 
-[Read More →](/projects/relevance-to-revenue-engine)
 
 ---
 
 ### 2. Intelligent Document Experience Assistant (IDEA)
 
-**A document intelligence system that converts unstructured enterprise documents into structured summaries, key themes, and explicit risk signals, enabling faster comprehension, consistent review, and decision-ready insights through responsible use of LLMs.**
+> *A document intelligence system that converts unstructured enterprise documents into structured summaries, key themes, and explicit risk signals, enabling faster comprehension, consistent review, and decision-ready insights through responsible use of LLMs.* [Read More →](/projects/intelligent-document-experience-assistant)
+
 
 <div class="topic-tags">
 <span class="topic-tag">Document Intelligence</span>
@@ -53,13 +55,13 @@ layout: default
 - Explicit risk and gap signals extracted to support compliance
 - Improved consistency of interpretation across stakeholders
 
-[Read More →](/projects/intelligent-document-experience-assistant)
 
 ---
 
 ### 3. Product Adoption & Churn Intelligence Assistant
 
-**An agentic decision system that analyzes customer usage signals to surface feature adoption opportunities, actionable enablement playbooks, and explainable churn risk, translating raw telemetry into CSM-ready guidance.**
+> *An agentic decision system that analyzes customer usage signals to surface feature adoption opportunities, actionable enablement playbooks, and explainable churn risk, translating raw telemetry into CSM-ready guidance.* [Read More →](/projects/product-adoption-churn-intelligence-assistant)
+
 
 <div class="topic-tags">
 <span class="topic-tag">Product Analytics</span>
@@ -76,13 +78,13 @@ layout: default
 - Churn risk signals consolidated into explainable Low / Medium / High classifications
 - Reduced manual analysis for Customer Success and Product teams
 
-[Read More →](/projects/product-adoption-churn-intelligence-assistant)
 
 ---
 
 ### 4. Marketing Intelligence Engine (Time-Aware Propensity Modeling)
 
-**An end-to-end, leakage-free machine learning system for predicting term-deposit subscription under real-world campaign dynamics—combining rigorous temporal evaluation, imbalance-aware modeling, and operational metrics to support realistic marketing decisions.**
+> *An end-to-end, leakage-free machine learning system for predicting term-deposit subscription under real-world campaign dynamics—combining rigorous temporal evaluation, imbalance-aware modeling, and operational metrics to support realistic marketing decisions.* [Read More →](/projects/marketing-intelligence-engine)
+
 
 <div class="topic-tags">
 <span class="topic-tag">Applied Machine Learning</span>
@@ -100,13 +102,12 @@ layout: default
 - ~15% of all subscribers captured by targeting top 10% scored customers
 - Leakage-free modeling ensuring deployable, non-inflated results
 
-[Read More →](/projects/marketing-intelligence-engine)
 
 ---
 
 ### 5. AI-Driven Fraud Case Summarizer (Risk Explainability)
 
-**An AI-assisted fraud analytics system that combines model risk outputs, SHAP-based explainability, and GenAI narratives to transform raw transaction data and fraud signals into structured, analyst-ready case summaries—supporting faster, more transparent fraud review without automating final decisions.**
+> *An AI-assisted fraud analytics system that combines model risk outputs, SHAP-based explainability, and GenAI narratives to transform raw transaction data and fraud signals into structured, analyst-ready case summaries—supporting faster, more transparent fraud review without automating final decisions.* [Read More →](/projects/ai-driven-fraud-case-summarizer)
 
 <div class="topic-tags">
 <span class="topic-tag">Fraud Analytics</span>
@@ -131,13 +132,11 @@ layout: default
 - [Interactive Demo →](https://pranshu-dhingra.github.io/AI-Driven-Fraud-Case-Summarizer)
 - [View Code →](https://github.com/pranshu-dhingra/AI-Driven-Fraud-Case-Summarizer)
 
-[Read More →](/projects/ai-driven-fraud-case-summarizer)
-
 ---
 
 ### 6. Vision-to-Language Engine
 
-**A computer vision and sequence learning system that converts raw visual signals into coherent natural language descriptions, combining deep CNN-based visual understanding with LSTM-based language modeling to bridge perception and human-readable interpretation.**
+> *A computer vision and sequence learning system that converts raw visual signals into coherent natural language descriptions, combining deep CNN-based visual understanding with LSTM-based language modeling to bridge perception and human-readable interpretation.* [Read More →](/projects/vision-to-language-engine)
 
 <div class="topic-tags">
 <span class="topic-tag">Computer Vision</span>
@@ -156,5 +155,3 @@ layout: default
 - Automated translation of visual content into descriptive language
 - Semantic alignment between visual features and linguistic tokens
 - Foundation for assistive, search, and content intelligence systems
-
-[Read More →](/projects/vision-to-language-engine)
