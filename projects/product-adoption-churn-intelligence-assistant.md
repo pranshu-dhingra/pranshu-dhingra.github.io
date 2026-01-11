@@ -10,7 +10,15 @@ layout: default
 **An end-to-end agentic decision system that analyzes customer usage signals to surface feature adoption opportunities, actionable enablement playbooks, and explainable churn risk, translating raw telemetry into CSM-ready guidance.**
 
 ## Tags & Technologies
-`Product Analytics` · `Agentic AI` · `Explainable Systems` · `Customer Intelligence` · `Python` · `Streamlit` · `Modular Architecture`
+<div class="topic-tags">
+<span class="topic-tag">Product Analytics</span>
+<span class="topic-tag">Agentic AI</span>
+<span class="topic-tag">Explainable Systems</span>
+<span class="topic-tag">Customer Intelligence</span>
+<span class="topic-tag">Python</span>
+<span class="topic-tag">Streamlit</span>
+<span class="topic-tag">Modular Architecture</span>
+</div>
 
 ## Key Impact & KPIs
 

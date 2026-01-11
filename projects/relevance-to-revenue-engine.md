@@ -10,7 +10,17 @@ layout: default
 **An end-to-end decision intelligence system that combines demand modeling, revenue optimization, and learning-to-rank with GenAI explanations, translating complex pricing and relevance decisions into clear, human-understandable insights.**
 
 ## Tags & Technologies
-`Decision Intelligence` · `Pricing Analytics` · `ML` · `NLP` · `Explainable AI` · `GenAI` · `Mistral-7B` · `Streamlit` · `Production-Ready`
+<div class="topic-tags">
+<span class="topic-tag">Decision Intelligence</span>
+<span class="topic-tag">Pricing Analytics</span>
+<span class="topic-tag">ML</span>
+<span class="topic-tag">NLP</span>
+<span class="topic-tag">Explainable AI</span>
+<span class="topic-tag">GenAI</span>
+<span class="topic-tag">Mistral-7B</span>
+<span class="topic-tag">Streamlit</span>
+<span class="topic-tag">Production-Ready</span>
+</div>
 
 ## Key Impact & KPIs
 

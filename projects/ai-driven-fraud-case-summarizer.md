@@ -10,7 +10,19 @@ layout: default
 **An AI-assisted fraud analytics system that combines model risk outputs, SHAP-based explainability, and GenAI narratives to transform raw transaction data and fraud signals into structured, analyst-ready case summaries—supporting faster, more transparent fraud review without automating final decisions.**
 
 ## Tags & Technologies
-`Fraud Analytics` · `Risk Modeling` · `Explainable AI` · `SHAP` · `NLP` · `GenAI` · `LLMs` · `Prompt Engineering` · `Streamlit` · `BFSI` · `Decision Support`
+<div class="topic-tags">
+<span class="topic-tag">Fraud Analytics</span>
+<span class="topic-tag">Risk Modeling</span>
+<span class="topic-tag">Explainable AI</span>
+<span class="topic-tag">SHAP</span>
+<span class="topic-tag">NLP</span>
+<span class="topic-tag">GenAI</span>
+<span class="topic-tag">LLMs</span>
+<span class="topic-tag">Prompt Engineering</span>
+<span class="topic-tag">Streamlit</span>
+<span class="topic-tag">BFSI</span>
+<span class="topic-tag">Decision Support</span>
+</div>
 
 ## Key Impact & KPIs
 

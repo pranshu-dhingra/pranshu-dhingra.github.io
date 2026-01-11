@@ -10,7 +10,18 @@ layout: default
 **An end-to-end computer vision and sequence learning system that converts raw visual signals into coherent natural language descriptions, combining deep CNN-based visual understanding with LSTM-based language modeling to bridge perception and human-readable interpretation.**
 
 ## Tags & Technologies
-`Computer Vision` · `Deep Learning` · `CNN` · `LSTM` · `Vision-Language Models` · `NLP` · `Sequence Modeling` · `Python` · `TensorFlow` · `Research-Grade`
+<div class="topic-tags">
+<span class="topic-tag">Computer Vision</span>
+<span class="topic-tag">Deep Learning</span>
+<span class="topic-tag">CNN</span>
+<span class="topic-tag">LSTM</span>
+<span class="topic-tag">Vision-Language Models</span>
+<span class="topic-tag">NLP</span>
+<span class="topic-tag">Sequence Modeling</span>
+<span class="topic-tag">Python</span>
+<span class="topic-tag">TensorFlow</span>
+<span class="topic-tag">Research-Grade</span>
+</div>
 
 ## Key Impact & KPIs
 

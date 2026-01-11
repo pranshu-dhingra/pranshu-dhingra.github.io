@@ -10,7 +10,16 @@ layout: default
 **An end-to-end, leakage-free machine learning system for predicting term-deposit subscription under real-world campaign dynamics—combining rigorous temporal evaluation, imbalance-aware modeling, and operational metrics to support realistic marketing decisions.**
 
 ## Tags & Technologies
-`Applied Machine Learning` · `Time-Series Evaluation` · `Campaign Analytics` · `Classification` · `XGBoost` · `Model Validation` · `Imbalanced Learning` · `Explainable ML`
+<div class="topic-tags">
+<span class="topic-tag">Applied Machine Learning</span>
+<span class="topic-tag">Time-Series Evaluation</span>
+<span class="topic-tag">Campaign Analytics</span>
+<span class="topic-tag">Classification</span>
+<span class="topic-tag">XGBoost</span>
+<span class="topic-tag">Model Validation</span>
+<span class="topic-tag">Imbalanced Learning</span>
+<span class="topic-tag">Explainable ML</span>
+</div>
 
 ## Key Impact & KPIs
 

@@ -10,7 +10,17 @@ layout: default
 **An end-to-end document intelligence system that converts unstructured enterprise documents into structured summaries, key themes, and explicit risk signals, enabling faster comprehension, consistent review, and decision-ready insights through responsible use of LLMs.**
 
 ## Tags & Technologies
-`Document Intelligence` · `NLP` · `Applied ML` · `LLMs` · `Prompt Engineering` · `Risk & Compliance` · `Explainable AI` · `Mistral-7B` · `Streamlit`
+<div class="topic-tags">
+<span class="topic-tag">Document Intelligence</span>
+<span class="topic-tag">NLP</span>
+<span class="topic-tag">Applied ML</span>
+<span class="topic-tag">LLMs</span>
+<span class="topic-tag">Prompt Engineering</span>
+<span class="topic-tag">Risk & Compliance</span>
+<span class="topic-tag">Explainable AI</span>
+<span class="topic-tag">Mistral-7B</span>
+<span class="topic-tag">Streamlit</span>
+</div>
 
 ## Key Impact & KPIs
 
