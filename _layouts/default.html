@@ -18,14 +18,14 @@
       <div class="header-content">
         <div class="site-title">
           <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-          <p class="tagline">Data scientist focused on applied machine learning and explainable AI.</p>
+          <p class="tagline">{{ site.tagline | default: "Data scientist focused on applied machine learning and explainable AI." }}</p>
         </div>
         <nav class="site-nav">
           <a href="/" class="nav-link">Home</a>
           <a href="/projects" class="nav-link">Projects</a>
           <a href="https://github.com/pranshu-dhingra" class="nav-link" target="_blank">GitHub</a>
           <a href="https://linkedin.com/in/pranshu-dhingra" class="nav-link" target="_blank">LinkedIn</a>
-          <a href="mailto:pranshu@example.com" class="nav-link">Email</a>
+          <a href="mailto:{{ site.email | default: "pranshu@example.com" }}" class="nav-link">Email</a>
         </nav>
         <button class="mobile-menu-toggle" aria-label="Toggle navigation">
           <span></span>
@@ -39,7 +39,7 @@
     <section class="about-section">
       <div class="container">
         <div class="about-content">
-          <p>Building practical ML solutions that combine predictive power with interpretability. Passionate about turning complex data into actionable insights and making AI systems more transparent.</p>
+          <p>{{ site.bio | default: "Building practical ML solutions that combine predictive power with interpretability. Passionate about turning complex data into actionable insights and making AI systems more transparent." }}</p>
         </div>
       </div>
     </section>
