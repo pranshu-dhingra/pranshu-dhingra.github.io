@@ -7,6 +7,7 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -21,11 +22,25 @@
           <p class="tagline">{{ site.tagline | default: "Data scientist focused on applied machine learning and explainable AI." }}</p>
         </div>
         <nav class="site-nav">
-          <a href="/" class="nav-link">Home</a>
-          <a href="/projects" class="nav-link">Projects</a>
-          <a href="https://github.com/pranshu-dhingra" class="nav-link" target="_blank">GitHub</a>
-          <a href="https://linkedin.com/in/pranshudhingra/" class="nav-link" target="_blank">LinkedIn</a>
-          <a href="mailto:{{ site.email | default: "pranshudhingra07@gmail.com" }}" class="nav-link">Email</a>
+          <div class="nav-internal">
+            <a href="/" class="nav-link">Home</a>
+            <a href="/projects" class="nav-link">Projects</a>
+          </div>
+          <span class="nav-separator"></span>
+          <div class="nav-external">
+            <a href="https://github.com/pranshu-dhingra" class="nav-link nav-link-external" target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github"></i>
+              <span>GitHub</span>
+            </a>
+            <a href="https://linkedin.com/in/pranshudhingra/" class="nav-link nav-link-external" target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-linkedin"></i>
+              <span>LinkedIn</span>
+            </a>
+            <a href="mailto:{{ site.email | default: "pranshudhingra07@gmail.com" }}" class="nav-link nav-link-external">
+              <i class="fas fa-envelope"></i>
+              <span>Email</span>
+            </a>
+          </div>
         </nav>
         <button class="mobile-menu-toggle" aria-label="Toggle navigation">
           <span></span>
