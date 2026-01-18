@@ -49,6 +49,12 @@ Implemented a GenAI narrative layer that synthesizes SHAP explanations, transact
 ### 5. Interactive Streamlit Demo
 Delivered an interactive Streamlit demo showcasing the full before-and-after workflow—from raw case inputs and explainability signals to AI-generated fraud narratives and recommended actions—demonstrating how predictive models and GenAI can be combined responsibly in fraud operations.
 
+## Model Selection Rationale
+
+- **Models/LLMs used:** XGBoost / tree models + SHAP for reason codes; Flan-T5-Small for constrained narrative generation.
+- **Explainability & auditability:** SHAP gave analyst-friendly reason codes; tree models are traceable for investigations.
+- **Controlled language:** Flan-T5-Small was chosen for reliable, template-friendly summaries that avoid creative hallucination.
+
 ## Links
 
 - [Interactive Demo →](https://pranshu-dhingra.github.io/AI-Driven-Fraud-Case-Summarizer)
