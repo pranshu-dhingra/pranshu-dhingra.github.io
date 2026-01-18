@@ -6,7 +6,7 @@ layout: default
 
 ---
 
-### Work
+### Work Experience
 - **Bank of America** ▪ Assistant Manager - Analytics ▪ *03/24 - Present*
 - **Citi** ▪ Senior Business Analyst ▪ *07/22 - 03/24*
 - **NCR Eduservices** ▪ Subject Matter Expert – Statistics ▪ *10/2019 - 01/2021*
@@ -14,9 +14,9 @@ layout: default
 ---
 
 ### Education
-- **Post Graduate Certificate in Applied Data Science & AI** ▪ IIT Roorkee ▪ *05/2025 – 11/2025* 
-- **Masters in Operational Research** ▪ University of Delhi ▪ *01/2020 - 01/2022*
-- **B.Sc. (Hons) Mathematics** ▪ University of Delhi ▪ *01/2014 - 01/2017*
+- **Post Graduate Certificate in Applied Data Science & AI** ▪ IIT Roorkee ▪ *05/2025 – 12/2025* 
+- **Masters in Operational Research** ▪ University of Delhi ▪ *07/2020 - 06/2022*
+- **B.Sc. (Hons) Mathematics** ▪ University of Delhi ▪ *07/2014 - 06/2017*
 
 ---
 
