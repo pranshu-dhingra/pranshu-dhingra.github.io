@@ -47,8 +47,13 @@ Introduced a GenAI communication layer (Mistral-7B) that translates numerical mo
 ### 5. Production-Ready System
 Delivered a reproducible, demo-ready system with modular pipelines, validation notebooks, and an interactive Streamlit interface—demonstrating how advanced analytics and GenAI can be operationalized responsibly in revenue- and risk-sensitive environments.
 
+## Model Selection Rationale
+
+- **Models/LLMs used:** Regression & ranking models; Flan-T5-Small (templated explanations) + Mistral-7B (rich narratives).
+- **Cost & speed:** Flan-T5-Small handled high-volume, low-cost explanation tasks; Mistral-7B used selectively to control inference cost.
+- **Fit-for-purpose:** Regression gave interpretable elasticity estimates for pricing decisions; LLMs were a communication layer.
+
 ## Links
 
-- [View System →](#)
-- [Open Demo →](#)
-- [View Code →](#)
+- [Interactive Demo →](https://huggingface.co/spaces/pranshu-dhingra/Relevance-to-Revenue-Engine)
+- [View Code →](https://github.com/pranshu-dhingra/Relevance-to-Revenue-Engine)
