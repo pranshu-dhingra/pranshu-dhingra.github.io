@@ -47,8 +47,13 @@ Separated reasoning from presentation, ensuring the LLM acts strictly as an inte
 ### 5. Interactive Demo-Ready Application
 Delivered an interactive, demo-ready Streamlit application that operationalizes the pipeline for real-time document analysis, demonstrating how LLMs can be integrated responsibly into enterprise workflows under practical infrastructure constraints.
 
+## Model Selection Rationale
+
+- **Models/LLMs used:** OCR + embedding retrieval (sentence-transformers) for grounding; Mistral-7B for contextual reasoning.
+- **Trust & grounding:** Retrieval-first design (embeddings → LLM) reduces hallucination by anchoring responses to source text.
+- **Persona fit & cost:** Mistral-7B provides strong reasoning capacity for persona-aware outputs while remaining cost-effective for enterprise use.
+
 ## Links
 
-- [View System →](#)
-- [Open Demo →](#)
-- [View Code →](#)
+- [Interactive Demo →](https://huggingface.co/spaces/pranshu-dhingra/intelligent-document-experience-assistant)
+- [View Code →](https://github.com/pranshu-dhingra/intelligent-document-experience-assistant)
