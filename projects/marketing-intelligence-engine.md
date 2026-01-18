@@ -52,8 +52,12 @@ Evaluated model performance using operational metrics (Precision, Recall@K, Lift
 ### 7. Business-Ready Recommendations
 Translated model outputs into business-ready recommendations, positioning the system as a decision-support tool for prioritizing outreach, aligning campaign intensity with seasonal engagement, and guiding controlled A/B testing before scaled rollout.
 
+## Model Selection Rationale
+
+- **Models/LLMs used:** Logistic Regression baseline + XGBoost for non-linear gains.
+- **Interpretability first:** Logistic regression provided transparent driver analysis required by marketing and compliance teams.
+- **Robustness:** XGBoost captured interaction effects; temporal validation ensured stability across campaign windows.
+
 ## Links
 
-- [View System →](#)
-- [Open Demo →](#)
-- [View Code →](#)
+- [View Code →](https://github.com/pranshu-dhingra/Bank-Marketing-Temporal-Evaluation)
