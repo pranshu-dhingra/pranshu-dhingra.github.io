@@ -45,8 +45,13 @@ Developed an interpretable churn-risk framework that consolidates multiple behav
 ### 5. Demo-Ready Extensible System
 Delivered a demo-ready, extensible system with typed data models, in-repo mock telemetry, memory/context tracking, and dual interfaces (CLI + Streamlit), demonstrating how agentic analytics systems can be operationalized responsibly in customer- and revenue-sensitive environments.
 
+## Model Selection Rationale
+
+- **Models/LLMs used:** Cohort analytics + XGBoost for adoption scoring; Flan-T5-Small to synthesize multi-metric narratives.
+- **Actionability & speed:** XGBoost delivered stable, fast scoring for operational pipelines; Flan-T5-Small produced concise insights at low latency.
+- **Practicality:** Cohort-first approach preserved temporal context; models focused on interpretable signals product teams can act on.
+
 ## Links
 
-- [View System →](#)
-- [Open Demo →](#)
-- [View Code →](#)
+- [Interactive Demo →](https://huggingface.co/spaces/pranshu-dhingra/product-adoption-system)
+- [View Code →](https://github.com/pranshu-dhingra/product-adoption-system)
