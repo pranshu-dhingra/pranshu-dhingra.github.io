@@ -155,3 +155,32 @@ layout: default
 - Automated translation of visual content into descriptive language
 - Semantic alignment between visual features and linguistic tokens
 - Foundation for assistive, search, and content intelligence systems
+
+---
+
+### 7. Financial Research Agent
+
+> *A retrieval-augmented research assistant for BFSI documents that extracts answers from financial PDFs using semantic search and two-pass LLM reasoning, augments incomplete responses with external data, and scores every answer for confidence and provenance.* [Read More →](/projects/financial-research-agent)
+
+<div class="topic-tags">
+<span class="topic-tag">RAG</span>
+<span class="topic-tag">Semantic Search</span>
+<span class="topic-tag">LLMs</span>
+<span class="topic-tag">Agentic AI</span>
+<span class="topic-tag">Confidence Scoring</span>
+<span class="topic-tag">Explainable AI</span>
+<span class="topic-tag">AWS Bedrock</span>
+<span class="topic-tag">Llama 3.3 70B</span>
+<span class="topic-tag">Amazon Titan Embeddings</span>
+<span class="topic-tag">Annoy</span>
+<span class="topic-tag">SerpAPI</span>
+<span class="topic-tag">Python</span>
+<span class="topic-tag">Streamlit</span>
+<span class="topic-tag">BFSI</span>
+</div>
+
+**Key Impact:**
+- Two-pass retrieval-augmented generation — internal evidence first, external augmentation only when needed
+- Weighted confidence scoring with hallucination flags for structured quality signals
+- Per-document semantic memory to eliminate redundant LLM calls
+
