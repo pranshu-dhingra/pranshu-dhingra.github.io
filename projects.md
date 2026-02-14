@@ -7,7 +7,36 @@ layout: default
 
 ## Projects
 
-### 1. Relevance-to-Revenue Engine (Pricing & Explainability)
+### 1. Financial Research Agent
+
+> *A retrieval-augmented research assistant for BFSI documents that extracts answers from financial PDFs using semantic search and two-pass LLM reasoning, augments incomplete responses with external data, and scores every answer for confidence and provenance.* [Read More →](/projects/financial-research-agent)
+
+<div class="topic-tags">
+<span class="topic-tag">RAG</span>
+<span class="topic-tag">Semantic Search</span>
+<span class="topic-tag">LLMs</span>
+<span class="topic-tag">Agentic AI</span>
+<span class="topic-tag">Confidence Scoring</span>
+<span class="topic-tag">Explainable AI</span>
+<span class="topic-tag">AWS Bedrock</span>
+<span class="topic-tag">Llama 3.3 70B</span>
+<span class="topic-tag">Amazon Titan Embeddings</span>
+<span class="topic-tag">Annoy</span>
+<span class="topic-tag">SerpAPI</span>
+<span class="topic-tag">Python</span>
+<span class="topic-tag">Streamlit</span>
+<span class="topic-tag">BFSI</span>
+</div>
+
+**Key Impact:**
+- Two-pass retrieval-augmented generation — internal evidence first, external augmentation only when needed
+- Weighted confidence scoring with hallucination flags for structured quality signals
+- Per-document semantic memory to eliminate redundant LLM calls
+
+
+---
+
+### 2. Relevance-to-Revenue Engine (Pricing & Explainability)
 
 > *A decision intelligence system that combines demand modeling, revenue optimization, and learning-to-rank with GenAI explanations, translating complex pricing and relevance decisions into clear, human-understandable insights.* 
 [Read More →](/projects/relevance-to-revenue-engine)
@@ -33,7 +62,7 @@ layout: default
 
 ---
 
-### 2. Intelligent Document Experience Assistant (IDEA)
+### 3. Intelligent Document Experience Assistant (IDEA)
 
 > *A document intelligence system that converts unstructured enterprise documents into structured summaries, key themes, and explicit risk signals, enabling faster comprehension, consistent review, and decision-ready insights through responsible use of LLMs.* [Read More →](/projects/intelligent-document-experience-assistant)
 
@@ -58,7 +87,7 @@ layout: default
 
 ---
 
-### 3. Product Adoption & Churn Intelligence Assistant
+### 4. Product Adoption & Churn Intelligence Assistant
 
 > *An agentic decision system that analyzes customer usage signals to surface feature adoption opportunities, actionable enablement playbooks, and explainable churn risk, translating raw telemetry into CSM-ready guidance.* [Read More →](/projects/product-adoption-churn-intelligence-assistant)
 
@@ -81,7 +110,7 @@ layout: default
 
 ---
 
-### 4. Marketing Intelligence Engine (Time-Aware Propensity Modeling)
+### 5. Marketing Intelligence Engine (Time-Aware Propensity Modeling)
 
 > *An end-to-end, leakage-free machine learning system for predicting term-deposit subscription under real-world campaign dynamics—combining rigorous temporal evaluation, imbalance-aware modeling, and operational metrics to support realistic marketing decisions.* [Read More →](/projects/marketing-intelligence-engine)
 
@@ -105,7 +134,7 @@ layout: default
 
 ---
 
-### 5. AI-Driven Fraud Case Summarizer (Risk Explainability)
+### 6. AI-Driven Fraud Case Summarizer (Risk Explainability)
 
 > *An AI-assisted fraud analytics system that combines model risk outputs, SHAP-based explainability, and GenAI narratives to transform raw transaction data and fraud signals into structured, analyst-ready case summaries—supporting faster, more transparent fraud review without automating final decisions.* [Read More →](/projects/ai-driven-fraud-case-summarizer)
 
@@ -134,7 +163,7 @@ layout: default
 
 ---
 
-### 6. Vision-to-Language Engine
+### 7. Vision-to-Language Engine
 
 > *A computer vision and sequence learning system that converts raw visual signals into coherent natural language descriptions, combining deep CNN-based visual understanding with LSTM-based language modeling to bridge perception and human-readable interpretation.* [Read More →](/projects/vision-to-language-engine)
 
@@ -155,32 +184,4 @@ layout: default
 - Automated translation of visual content into descriptive language
 - Semantic alignment between visual features and linguistic tokens
 - Foundation for assistive, search, and content intelligence systems
-
----
-
-### 7. Financial Research Agent
-
-> *A retrieval-augmented research assistant for BFSI documents that extracts answers from financial PDFs using semantic search and two-pass LLM reasoning, augments incomplete responses with external data, and scores every answer for confidence and provenance.* [Read More →](/projects/financial-research-agent)
-
-<div class="topic-tags">
-<span class="topic-tag">RAG</span>
-<span class="topic-tag">Semantic Search</span>
-<span class="topic-tag">LLMs</span>
-<span class="topic-tag">Agentic AI</span>
-<span class="topic-tag">Confidence Scoring</span>
-<span class="topic-tag">Explainable AI</span>
-<span class="topic-tag">AWS Bedrock</span>
-<span class="topic-tag">Llama 3.3 70B</span>
-<span class="topic-tag">Amazon Titan Embeddings</span>
-<span class="topic-tag">Annoy</span>
-<span class="topic-tag">SerpAPI</span>
-<span class="topic-tag">Python</span>
-<span class="topic-tag">Streamlit</span>
-<span class="topic-tag">BFSI</span>
-</div>
-
-**Key Impact:**
-- Two-pass retrieval-augmented generation — internal evidence first, external augmentation only when needed
-- Weighted confidence scoring with hallucination flags for structured quality signals
-- Per-document semantic memory to eliminate redundant LLM calls
-
+  
