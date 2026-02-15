@@ -11,6 +11,8 @@ layout: default
 
 > *A retrieval-augmented research assistant for BFSI documents that extracts answers from financial PDFs using semantic search and two-pass LLM reasoning, augments incomplete responses with external data, and scores every answer for confidence and provenance.* [Read More →](/projects/financial-research-agent)
 
+[Live Demo (AWS)](https://fin-agent.pranshudhingra.com/)
+
 <div class="topic-tags">
 <span class="topic-tag">RAG</span>
 <span class="topic-tag">Semantic Search</span>
