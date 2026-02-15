@@ -61,5 +61,6 @@ Delivered a multi-interface research tool with a Streamlit dashboard for documen
 
 ## Links
 
+- [Live Demo (AWS) →](https://fin-agent.pranshudhingra.com/)
 - [Interactive Demo →](https://huggingface.co/spaces/pranshu-dhingra/financial-research-agent)
 - [View Code →](https://github.com/pranshu-dhingra/financial-research-agent)
