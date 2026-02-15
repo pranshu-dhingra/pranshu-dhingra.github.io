@@ -43,7 +43,7 @@ layout: default
 > *A decision intelligence system that combines demand modeling, revenue optimization, and learning-to-rank with GenAI explanations, translating complex pricing and relevance decisions into clear, human-understandable insights.* 
 [Read More →](/projects/relevance-to-revenue-engine)
 
-🖱️[Interactive Demo](https://huggingface.co/spaces/pranshu-dhingra/Relevance-to-Revenue-Engine)
+🚀[Interactive Demo](https://huggingface.co/spaces/pranshu-dhingra/Relevance-to-Revenue-Engine)
 
 <div class="topic-tags">
 <span class="topic-tag">Decision Intelligence</span>
@@ -69,7 +69,7 @@ layout: default
 
 > *A document intelligence system that converts unstructured enterprise documents into structured summaries, key themes, and explicit risk signals, enabling faster comprehension, consistent review, and decision-ready insights through responsible use of LLMs.* [Read More →](/projects/intelligent-document-experience-assistant)
 
-🖱️[Interactive Demo](https://huggingface.co/spaces/pranshu-dhingra/intelligent-document-experience-assistant)
+🚀[Interactive Demo](https://huggingface.co/spaces/pranshu-dhingra/intelligent-document-experience-assistant)
 
 <div class="topic-tags">
 <span class="topic-tag">Document Intelligence</span>
@@ -95,7 +95,7 @@ layout: default
 
 > *An agentic decision system that analyzes customer usage signals to surface feature adoption opportunities, actionable enablement playbooks, and explainable churn risk, translating raw telemetry into CSM-ready guidance.* [Read More →](/projects/product-adoption-churn-intelligence-assistant)
 
-🖱️[Interactive Demo](https://huggingface.co/spaces/pranshu-dhingra/product-adoption-system)
+🚀[Interactive Demo](https://huggingface.co/spaces/pranshu-dhingra/product-adoption-system)
 
 <div class="topic-tags">
 <span class="topic-tag">Product Analytics</span>
@@ -141,9 +141,9 @@ layout: default
 
 ### 6. AI-Driven Fraud Case Summarizer (Risk Explainability)
 
-🖱️[Interactive Demo](https://pranshu-dhingra.github.io/AI-Driven-Fraud-Case-Summarizer)
-
 > *An AI-assisted fraud analytics system that combines model risk outputs, SHAP-based explainability, and GenAI narratives to transform raw transaction data and fraud signals into structured, analyst-ready case summaries—supporting faster, more transparent fraud review without automating final decisions.* [Read More →](/projects/ai-driven-fraud-case-summarizer)
+
+🚀[Interactive Demo](https://pranshu-dhingra.github.io/AI-Driven-Fraud-Case-Summarizer)
 
 <div class="topic-tags">
 <span class="topic-tag">Fraud Analytics</span>
